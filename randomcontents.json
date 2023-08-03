@@ -1,39 +1,39 @@
 [
   {
-    category: 'inspirational',
-    language: 'english',
-    quotes: [
+    "category": "inspirational",
+    "language": "english",
+    "quotes": [
       "The only way to do great work is to love what you do.",
       "Believe you can and you're halfway there.",
       "In the middle of difficulty lies opportunity."
     ]
   },
   {
-    category: 'motivational',
-    language: 'english',
-    quotes: [
+    "category": "motivational",
+    "language": "english",
+    "quotes": [
       "Success is not final, failure is not fatal: It is the courage to continue that counts.",
       "Your time is limited, don't waste it living someone else's life.",
       "It always seems impossible until it's done."
     ]
   },
   {
-    category: 'funny',
-    language: 'english',
-    quotes: [
+    "category": "funny",
+    "language": "english",
+    "quotes": [
       "I am so clever that sometimes I don't understand a single word of what I am saying.",
       "The best way to teach your kids about taxes is by eating 30% of their ice cream.",
       "I told my wife she was drawing her eyebrows too high. She looked surprised."
     ]
   },
   {
-    category: 'inspirational',
-    language: 'spanish',
-    quotes: [
+    "category": "inspirational",
+    "language": "spanish",
+    "quotes": [
       "No hay viento favorable para el que no sabe dónde va.",
       "Lo que se obtiene con violencia, solamente se puede mantener con violencia.",
       "La vida es muy peligrosa. No por las personas que hacen el mal, sino por las que se sientan a ver lo que pasa."
     ]
   }
   // Add more objects with different categories, languages, and quotes as needed
-];
+]
